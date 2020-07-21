@@ -1,3 +1,5 @@
 # MVC Module View Controller 
 
-model
+- Model
+    - Controller
+    - View 
