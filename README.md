@@ -15,7 +15,8 @@ block of code for default page
 ``` @app.route("/") ```
 
 Create a welcome method to display on home page
-``` def index():
+```bash
+ def index():
     return "<h1>Welcome to MVC with flask project</h1>" 
 ```
 eng of block of code for default page
