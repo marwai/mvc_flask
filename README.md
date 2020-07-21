@@ -1,10 +1,11 @@
 # MVC Module View Controller 
 
-```import flask
+```bash
+import flask
 from flask import Flask
 ```
 In order for us to use flask we need to crate an instance of our app
-``` 
+```bash 
 app = Flask(__name__) # __ is syntax to create flask
 ```
 
@@ -12,7 +13,8 @@ Syntax to create flask instance
 
 Syntax for decorators to create a web route
 block of code for default page
-``` @app.route("/") ```
+```bash
+ @app.route("/") ```
 
 Create a welcome method to display on home page
 ```bash
