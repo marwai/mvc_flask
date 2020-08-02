@@ -20,7 +20,7 @@ def index():
 # index method will display on our home page
 if __name__ == "__main__": # syntax to run app
     app.run(debug=True)
-    # debug = true to ensure upate any changes without re-running the app
+    # debug = true to ensure update any changes without re-running the app
 
 # When you seen an error/exception - look at the line number at the end of error and review your code first
 

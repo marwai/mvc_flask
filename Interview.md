@@ -61,6 +61,11 @@ crafts detailed, synthetic biographies of fictitious users of the future product
 - Sprint review 
 - Sprint retrospective 
 
+## scrum artfacts
+product backlog 
+sprint backlog 
+increment 
+
 ## Sprint review  
 - Reviews sprint review weekly, looks back at work done with product owner 
 
@@ -88,8 +93,12 @@ scrum helps tracking of backlog, using trello
 whereas agile 
 
 ## Agile values 
-
+invididual interatction
+software 
+collobartion 
+change 
 ## Agile Principles 
+
 
 1.  __Customer satisfaction through early and continuous software delivery__
 Customers are happier when they receive working software at regular intervals, rather than waiting extended periods of time between releases.
@@ -118,4 +127,15 @@ Customers are happier when they receive working software at regular intervals, r
 
 11.	__Self-organizing teams encourage great architectures, requirements, and designs__ – Skilled and motivated team members who have decision-making power, take ownership, communicate regularly with other team members, and share ideas that deliver quality products.
 
-12.	__Regular reflections on how to become more effective__ – Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently.
+12.	__Regular reflections on how to become more effective__ – Self-improvement, process improvement, advancing skills, 
+and techniques help team members work more efficiently.
+
+
+## Devops
+- used to monolith architecture, database, python controller and front end in one file. As oppose to to independently working 
+with framework individually 
+- Devops contribute to 
+- Devops is a culture in any business environment. To work in an agile environment, devops is required. to help speed up delivery 
+of software, help speed on both ends, work as bridge between development and operations, translate the technical information 
+and communicate with clients using pipeline and cloud . 
+

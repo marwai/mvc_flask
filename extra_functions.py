@@ -9,4 +9,4 @@ def projects():
 
 @app.route('/about')
 def about():
-    return "Marcus' about page"
+    return "About page"

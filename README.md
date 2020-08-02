@@ -1,8 +1,33 @@
 # MVC Module View Controller 
 
+In python we are using the Flask micro-framework to develop a web application that follows the MVC development
+pattern.
+
+![MVC](images/MVC_Diagram.png)
+
+| Model                                                                                            	| View                                                                                                   	| Controller                                                                                                                                                       	|
+|--------------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Includes all data and its related logic (a way for talking about data) 	|   Presents data and its related logic (a way for talking about user interfaces) MVC is HTML, CSS and some special syntax. 	| An interface between Model and View components (a way for talking about program logic) aka the request handler 
+
 Benefits of MVC
 * Using Python flask to interacts with users on the web
 
+Basic code structure:
+
+```html
+from flask import Flask
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+    return 'Hello World!'
+
+if __name__ == '__main__':
+    app.run()
+
+```
+
+Setting up flask
 ```bash
 import flask
 from flask import Flask
